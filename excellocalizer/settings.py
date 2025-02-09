@@ -37,9 +37,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'core',
+    'authorizeapp',
+    'items',
     'rest_framework',  # Add Django REST framework
     'drf_yasg',  # Add drf-yasg for Swagger UI
+   
 ]
 
 MIDDLEWARE = [
