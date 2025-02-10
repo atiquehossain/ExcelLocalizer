@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'authorizeapp',
     'items',
+    'analysis',
     'rest_framework',  # Add Django REST framework
     'drf_yasg',  # Add drf-yasg for Swagger UI
    
